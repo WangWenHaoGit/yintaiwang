@@ -1,0 +1,61 @@
+html{color:#666;}
+a{color:#666;}
+/*top*/
+.top0{width:100%;height:34px;border-bottom:1px solid #fff;background-color:#eee}
+.top1{width:1200px; height:34px;margin: 0 auto;overflow:hidden;}
+.top1-l{text-align:center; margin-top:5px;overflow:hidden;height:34px;float:left;}
+.top1-l li a div{height:22px; width:22px;display:inline-block;vertical-align: middle;}
+.top1-l-1 a div{background:url(../img/xuebitu.png) no-repeat -225px 0px;}
+.top1-l-2 a div{background:url(../img/xuebitu.png) no-repeat -225px -58px;}
+.top1-l .top1-l-3 a div{background:url(../img/phone.png) no-repeat;height:20px;width:20px;margin-top:1px;}
+.top1-l-1:hover div{background-position:-225px -27px;}
+.top1-l-2:hover div{background-position:-225px -88px;}
+.top1-l .top1-l-3:hover div{background-position:0 -20px;}
+.top1-l li{float:left;margin:0 10px 0;}
+.top1-l .line{background:#ccc;width:1px; height:14px;margin-top:3px;}
+.top1-r{text-align:center; margin-top:8px;overflow:hidden;height:34px;float:right;}
+.top1-r li{float:left;margin:0 10px 0;}
+.top1-r li a:hover{color:#e5004f;}
+.top1-r .line{background:#ccc;width:1px; height:14px;margin-top:3px;}
+/* topend */
+/* header */
+.header{text-align:center;margin:0 auto;height:83px;background:url(../img/header.jpg) center;}
+/* headerend */
+/* logohead */
+.logohead0{width:100%;margin-top:20px;}
+.logohead{width:1200px;margin:0 auto;overflow:hidden;}
+.logo li{float:left;margin:0 10px 0;}
+.logo .line{background:#ccc;width:1px; height:80px;}
+.search{margin-top:15px;float:left;margin-left:160px;}
+.search-1 input{display:inline;float:left;}
+.searchbutton{border:0;background:url(../img/xuebitu.png) 0 -76px;width:44px; height:33px;}
+.searchtext{width:420px;height:29px;border:2px solid #323333;}
+.search-2 a{font-size: 12px;line-height:12px;margin:10px 10px 0 0;display:inline-block;color:#968896;}
+.search-2 .e5004f{color:#e5004f;}
+.search-2 a:hover{color:#e5004f;border-bottom:1px solid #e5004f;}
+.shopbag{background:url(../img/xuebitu.png) no-repeat -55px -76px;width:160px;height:33px;float:right;margin-top:15px;font-size:13px;}
+.shopbag span{display:inline-block;margin-left:50px;height:33px;line-height:33px;color:#fff;vertical-align:middle;}
+.shopbag .gw{background:url(../img/xuebitu.png) no-repeat -189px -111px;height:4px;width:7px;margin-left:20px}
+.shopbag .laba{height:16px;width:11px;background:url(../img/xuebitu2.png) no-repeat 0 0;display:inline-block;float:left;margin:0px 15px 0 0;}
+.gg{margin-top:9px;}
+/* logoheadend */
+/* nav */
+.nav0{width:100%;margin-top:15px;border-bottom:1px solid #000;}
+.nav{height:40px;width:1200px;margin:0 auto;}
+.nav-l{height:40px;width:212px;background:#222222;text-align:center;line-height:40px;color:#fff;font-size:20px;float:left;}
+.nav-m li{margin:0 20px;float:left;font-size:18px;line-height:38px;height:38px;padding:0 5px;}
+.nav-m{display:block;margin-left:50px;float:left;}
+.nav-m li:hover a{color:#e5004f;}
+.nav-m li:hover{border-bottom:3px solid #e5004f;}
+.nav-m li a{color:#000;}
+.nav-r{float:right;}
+.nav-r li{float:left;margin:0 5px;height:40px;line-height:38px;}
+.nav-r li a{color:#666;font-size:14px;}
+.nav-r li:hover a{color:#e5004f;}
+.nav-r .line{background:#ccc;width:1px; height:12px;margin-top:14px;}
+.gai{position:relative;}
+.gai img{position:absolute;top:-10px;left:37px;}
+/* navend */
+/* banner */
+
+/* bannerend */
